@@ -1,0 +1,17 @@
+header {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    background-color: #BEE8E1;
+    align-items: center;
+}
+
+header button {
+    background-color: #83CFC6;
+    padding: 10px;
+}
+
+.sites {
+    display: flex;
+    justify-content: space-evenly;
+}
+
