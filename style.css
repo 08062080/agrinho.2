@@ -1,17 +1,22 @@
 header {
     display: grid;
     grid-template-columns: 40% 60%;
-    background-color: #BEE8E1;
+    background-color: bisque;
     align-items: center;
 }
 
 header button {
-    background-color: #83CFC6;
+    background-color:#83CFC6;
     padding: 10px;
 }
 
 .sites {
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: bisque;
+
 }
 
