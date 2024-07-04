@@ -17,6 +17,7 @@ header img {
 .sites {
     display: flex;
     justify-content: space-evenly;
+    padding: 60px;
 }
 
 .botao{
